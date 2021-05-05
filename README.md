@@ -6,4 +6,4 @@
 [EN](https://github.com/inescaridi/PriorID/releases/download/NetW4PPLV1.1/NetW4PPL_EN_linux) | [ES](https://github.com/inescaridi/PriorID/releases/download/NetW4PPLV1.1/NetW4PPL_ES_linux)
 
 # Documentation
-[pdf](https://github.com/inescaridi/NetW4PPL/blob/main/doc.pdf)
+[pdf]({{ site.baseurl }}/doc.pdf)
